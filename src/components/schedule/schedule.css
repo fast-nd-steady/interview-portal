@@ -1,0 +1,23 @@
+#schedule-container {
+  margin: 3%;
+}
+#schedule-container .form-control {
+  margin: 8px 8px;
+  padding: 4px 4px;
+  height: fit-content;
+  background-color: rgb(142, 199, 238);
+}
+#schedule-container div {
+  display: flex;
+}
+
+#schedule-container .table {
+  margin: 3% 2%;
+}
+#schedule-container .table input {
+  zoom: 2;
+}
+#schedule-container #schedule-btn {
+  margin: 1% 1% 1% auto;
+  width: fit-content;
+}

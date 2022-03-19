@@ -1,0 +1,47 @@
+{
+    "participant":[
+        {
+            "id": "1",
+            "name": "dummy",
+            "email": "dummy@mail.com",
+            "scheduledInterviews": [
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+
+    "admin": [
+        {
+            "id": "1",
+            "name": "dummy-admin",
+            "email": "dummy-admin@mail.com",
+            "scheduledInterviews": [
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+
+    "interview":[
+        {
+            "ID": "1",
+            "interviewerID": "1",
+            "intervieweeID": [
+                "1",
+                "2"
+            ],
+            "date": "15 march, 2021",
+            "start": "9:00 AM",
+            "end": "9:30 AM"
+        }
+    ],
+    "resume":[
+        {
+            "patricipantID": 1,
+            "path": ""
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+.card-columns {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: fit-content;
+  max-width: 20%;
+  margin: 10px 20px;
+}
+
+#home-container {
+  margin: 2%;
+}
+
+button {
+  font-size: 10px;
+  padding: 20px;
+}
